@@ -36,4 +36,5 @@ Have in mind that the field is auto-resizing in accordance with the browser widt
 ### References
 
 [Ewfan's *"How-to-create-newline-in-Github-Bio"*](https://github.com/ewfian/How-to-create-newline-in-Github-Bio)
+<br />
 [Correct syntax for newline in Github Bio - stackoverflow](https://stackoverflow.com/questions/43406317/correct-syntax-for-newline-in-github-bio)
